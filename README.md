@@ -1,7 +1,7 @@
 # Pizzrella-Food-Ordering-App
 A Fullstack Pizza delivery app made using Next.js, TailwindCSS and MongoDB.
 
-![Project Image](https://github.com/haider-sama/FlashCommerce/blob/main/public/thumbnail.png)
+![Project Image](https://github.com/haider-sama/Pizzrella-Food-Ordering-App/blob/main/public/thumbnail.png)
 
 ## Features
 
