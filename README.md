@@ -15,6 +15,9 @@ A Fullstack Pizza delivery app made using Next.js, TailwindCSS and MongoDB.
 - ✅ Admins can add/remove products.
 - I wanted to add more features but I'll add them in my bigger projects.
 
+Note: Create a next folder with the name [...nextauth] in "src/app/api/auth/[...nextauth]/route.js"
+Because for some reason, Github won't allow me to upload the file.
+
 ## Getting started
 
 To get started with this project, run
